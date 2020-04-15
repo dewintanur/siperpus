@@ -1,0 +1,32 @@
+body{
+  padding: 200px;
+  margin: 0;
+  font-family: sans-serif;
+  background-image: url(bg.jpg);
+
+}
+h1{
+  font-style: normal;
+  color: white;
+
+}
+table{
+  border-collapse: collapse;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+th,td{
+  padding: 30px 50px 10px 10px;
+  color: white;
+  font-size: 20px;
+}
+th{
+
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+;
+}
+.login{
+  color: blue;
+  font-family: serif;
+  font-size: 15px;
+
+}
